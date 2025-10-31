@@ -154,4 +154,4 @@ a_2 = 0
 Bentuk polinomial:
 19 = (1×2^4) + (0×2^3) + (0×2^2) + (1×2^1) + (1×2^0)
 
-Bentuk biner dari 19 adalah: 10011
+Bentuk biner dari 19 adalah: 10011# ouhmg
